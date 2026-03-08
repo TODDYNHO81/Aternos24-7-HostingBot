@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "parobecity.aternos.me",
+    "ip": "basslet.aternos.host",
     "port": 55521,
     "version": "1.21.1"
   },
